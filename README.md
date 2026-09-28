@@ -4,7 +4,7 @@ A C program for generating three-dimensional peptide backbone structures from pr
 
 The program constructs Cartesian coordinates for the backbone atoms **N, CA, C, and O** using fixed peptide-backbone bond lengths and bond angles together with recursive homogeneous transformation matrices. The generated coordinates are written to a PDB file.
 
-Note: This code only generates only backbone atoms and does not generate side chains.
+Note: This code generates only backbone atoms and does not generate side chains.
 ## Objective
 
 The purpose of this program is straightforward:
