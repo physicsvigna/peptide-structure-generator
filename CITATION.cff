@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software in your work, please cite this repository."
+title: "Peptide Structure Generator from Ramachandran Angles"
+type: software
+authors:
+  - family-names: Kannan
+    given-names: Vigneshwaran
+version: 1.0.0
+date-released: 2026-09-28
+license: MIT
