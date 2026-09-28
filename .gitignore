@@ -1,0 +1,17 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+
+# Default generated output from the program
+/output_structure.pdb
+
+# Editor / OS temporary files
+*~
+*.bak
+.DS_Store
+Thumbs.db
+
+# Optional molecular-viewer session files
+*.pse
